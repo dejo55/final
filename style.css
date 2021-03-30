@@ -1,0 +1,143 @@
+body {
+    color: rgb(145, 145, 24);
+    margin: 0;
+    text-align: center;
+    font-family: 'Caveat', cursive;
+    background-color: rgb(230, 208, 181);
+  }
+  h1 {
+    font-family: "Caveat", cursive;
+    font-size: 5.625rem;
+    margin: 50px auto 0 auto;
+    line-height: 2;
+  }
+
+  h2 {
+    font-family: "Montserrat", sans-serif;
+    font-size: 2.5rem;
+    margin-top: 50px;
+    font-weight: normal;
+    padding-bottom: 10px;
+  }
+  h1,
+h2 {
+  color: #240847;
+}
+h5{
+    color: rgb(9, 74, 112);
+}
+a,
+h3 {
+  color: #11999e;
+}
+
+h3 {
+  font-family: "Montserrat", sans-serif;
+}
+p {
+  
+    line-height: 1;
+    color: black;
+   
+    
+  }
+  a {
+    color: #11999e;
+    font-family: "Montserrat", sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  a:hover {
+    color: #eaf6f6;
+  }
+  
+  .middle-container {
+    margin: 100px 0;
+  }
+  .bottom-container {
+    background-color: #66bfbf;
+    padding: 50px 0 20px;
+  }
+  .top-container {
+    background-color:aliceblue;
+    position: relative;
+    padding-top: 100px;
+  }
+  .new {
+    text-decoration: underline;
+  }
+  
+  .profile {
+    width: 30%;
+    margin: auto;
+  }
+  #new {
+    font-weight: normal;
+  }
+  .bottom-cloud {
+    position: absolute;
+    left: 150px;
+    bottom: 300px;
+  }
+  .top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 40px;
+  }
+  .skills {
+    width: 50%;
+    margin: 100px auto;
+    text-align: left;
+  }
+  .skill-image1 {
+    width: 25%;
+    float: left;
+    margin-right: 30px;
+  }
+  .skill-image2 {
+    width: 25%;
+    float: right;
+    margin-left: 30px;
+  }
+  hr {
+    border: dotted #069712 6px;
+    border-bottom: none;
+    width: 15%;
+    margin: 100px auto;
+  }
+  .contact-message {
+    width: 40%;
+    margin: 40px auto 60px;
+  }
+  
+  .copyright {
+    color: #eaf6f6;
+    font-size: 0.75rem;
+    padding: 20px 0;
+  }
+  .btn {
+    font-family: "Montserrat", sans-serif;
+    background: #11cdd4;
+    background-image: -webkit-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -moz-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -ms-linear-gradient(top, #11cdd4, #11999e);
+    background-image: -o-linear-gradient(top, #11cdd4, #11999e);
+    background-image: linear-gradient(to bottom, #11cdd4, #11999e);
+    -webkit-border-radius: 8;
+    -moz-border-radius: 8;
+    border-radius: 8px;
+    font-family: Arial;
+    color: #ffffff;
+    font-size: 20px;
+    padding: 10px 20px 10px 20px;
+    text-decoration: none;
+  }
+  .btn:hover {
+    background: #30e3cb;
+    background-image: -webkit-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -moz-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -ms-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: -o-linear-gradient(top, #30e3cb, #2bc4ad);
+    background-image: linear-gradient(to bottom, #30e3cb, #2bc4ad);
+    text-decoration: none;
+  }
